@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          OFF TRAILS
+          [REACT APP NAME HERE]
         </p>
         <a
           className="App-link"
